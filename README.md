@@ -1,8 +1,5 @@
-# BMI master
-#Today people are so worried about their health but don't have time to take care of it. All of us need an instant solution for this problem and want to maintain that young healthy body.
-
-#The idea of our application is to provide people with the exact diet plans and tips according to the BODY MASS INDEX(BMI).
-
-#The user inputs the height and weight, and the application calculates the inputs given.
-
-#The premium clients could get help from dieticians such as tips and diet plans for the weight loss time period.
+# BMItest
+BMI项目
+* 本项目使用数据传递、第三方GIF框架和Toast框架、自定义Dialog界面、自定义Toast界面。
+* 是一个特别适合有了安卓基础的同学的练手项目，可以对界面布局和自定义内容的拓展，以及如何调用第三方框架。
+* 在EditText输入框里，为了不然程序输入除数字以外的字符进行运算导致程序闪退，我直接在他的输入框类型那里限定为数字类型，然后再限定输入的内容（digits），这样可以不用考虑其他字符对程序造成的影响。
